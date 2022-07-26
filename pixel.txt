@@ -1,0 +1,14 @@
+1. How much Parameter max size you want for below system parameter ?
+   - Max. Image file size 
+   - Max. Image size in pixels
+
+2. After increasing the parameter value E.g: 200000 Pixel and communication having @(Contact.ContactStockImage) data tag available then 
+     > Under Email it display fine 
+     > Under Word editor it display fine 
+
+Exisitng behaviour :
+
+> Right now system parameter accepting up to 'Max. Image file size = 5000 KB' and 'Max. Image size in pixels = 25000'
+> When user upload 5000 KB and 25000 Pixel image under contact stock image and communication having @(Contact.ContactStockImage) data tag available then 
+     > Under Email it display fine 
+     > Under Word editor it display fine 
